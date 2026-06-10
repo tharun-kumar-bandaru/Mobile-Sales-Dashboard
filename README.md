@@ -66,6 +66,4 @@ The dataset contains information related to:
 
 ---
 ## 🤝 Connect With Me
-If you have suggestions, feedback, or collaboration ideas, feel free to connect on LinkedIn.
-
-⭐ If you found this project useful, consider giving this repo a star!
+🔗 LinkedIn: www.linkedin.com/in/tharunbandaru Email: bandarutharunkumar0@gmail.com
